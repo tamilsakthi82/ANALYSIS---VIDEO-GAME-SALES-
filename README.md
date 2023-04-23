@@ -1,9 +1,9 @@
 # ANALYSIS---VIDEO-GAME-SALES-
 
 
-DASHBOARD PUBLIC LINK:       C:\Users\ELCOT\Downloads\ddd.twb
-                             C:\Users\ELCOT\Downloads\VIDEO GAME SALES ANALYSIS DASHBOARD.A4 VIEW.twb
+DASHBOARD PUBLIC LINK:       https://drive.google.com/file/d/1Txi1l6QLyMAOMDE9j9d1p_XTUHSpEktz/view?usp=drivesdk
                              
-STORY PUBLIC LINK:           C:\Users\ELCOT\Downloads\STORY(VIDEO GAME SALES).twb     
+                             
+STORY PUBLIC LINK:           https://drive.google.com/file/d/1U7K7CI1HeTnKE1cJR6AWamwbgLvbxvPt/view?usp=drivesdk
 
 VIDEO DEMONSTRATION LINK:    https://drive.google.com/file/d/1QvUZb3eQg1DY1eYI5E8RCBbYkN9vDZB-/view?usp=drivesdk
